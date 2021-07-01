@@ -3,3 +3,4 @@ WPU RESOLUSI
 - Mengedit foto melalui aplikasi android
 - Membuat forum diskusi guru 
 - Membuat video pembelajaran
+- membuat bisnis kaos
